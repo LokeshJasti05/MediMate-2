@@ -30,10 +30,7 @@ const Hero = () => {
                         <h6>72 BPM</h6>
                     </div>
 
-                    <div className="gym__location" data-aos-duration="1100" data-aos="fade-up">
-                        <span><i className="ri-map-pin-2-fill"></i></span>
-                        <h5>Find our gym centers near you</h5>
-                    </div>
+                    
                 </div>
             </div>
         </div>
